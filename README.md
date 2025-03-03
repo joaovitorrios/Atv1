@@ -45,7 +45,7 @@ Durante o desenvolvimento, foram reforçados conceitos essenciais de:
 
 Este projeto permitiu consolidar conhecimentos fundamentais de desenvolvimento web, além de aprimorar a organização e a estética das páginas. A prática de **boas práticas de código e design responsivo** foi um diferencial importante, tornando a landing page intuitiva e visualmente agradável.
 
-🔗 Repositório do projeto: [GitHub](https://github.com/joaovitorrios/wide-coverage-site)
+🔗 Repositório do projeto: [GitHub](https://github.com/joaovitorrios/Atv1)
 
 
 
