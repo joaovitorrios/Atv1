@@ -1,35 +1,51 @@
-Relatório Final
-Escolhas de Desenvolvimento
-Desenvolvi este projeto utilizando HTML e CSS, estruturando o site de forma organizada e semântica. Optei por um layout responsivo para garantir que a experiência do usuário seja consistente em diferentes dispositivos, como computadores, tablets e celulares.
+# 🌍 Portifolio Landing Page
 
-Minha abordagem foi baseada nas boas práticas de desenvolvimento web, utilizando tags semânticas para melhorar a acessibilidade e a indexação nos mecanismos de busca.
+## 📌 Introdução
 
-Estrutura do Menu
-O menu principal do site foi projetado para ser intuitivo e acessível, contendo as seguintes seções:
+Este projeto foi desenvolvido como parte de uma atividade acadêmica, utilizando **HTML** e **CSS** para criar uma landing page moderna e responsiva. O principal objetivo foi aplicar conceitos de estilização e estruturação de páginas web, garantindo um design limpo, acessível e otimizado para diferentes dispositivos.
 
-Home: Página inicial do site, com uma introdução e um destaque visual.
-Portfolio: Apresentação dos trabalhos realizados, com imagens e descrições.
-About: Seção sobre mim, incluindo experiência e habilidades.
-Contact Me: Formulário de contato para facilitar a comunicação com visitantes e clientes.
-A implementação do menu foi feita com HTML e CSS, garantindo uma navegação fluida e responsiva. Usei Flexbox para alinhar os itens corretamente e um efeito de hover para melhorar a interatividade.
+## 🛠 Tecnologias Utilizadas
 
-Escolhas de Estilização
-Para a estilização do site, escolhi um design moderno e profissional, utilizando CSS Flexbox e Grid para organizar os elementos da página de forma responsiva.
+- **HTML5**: Estruturação semântica da página
+- **CSS3**: Estilização e responsividade
+- **Flexbox e Grid**: Para organização e alinhamento dos elementos
 
-Tipografia: Escolhi fontes modernas e legíveis, garantindo boa experiência de leitura.
-Cores: A paleta de cores foi pensada para oferecer contraste adequado e harmonia visual.
-Botões e Links: Foram estilizados para serem bem visíveis e responsivos ao hover.
-Imagens e Ícones: Utilizei imagens otimizadas para garantir carregamento rápido e um visual atraente.
-Seções da Página
-Home: Apresentação inicial com um banner destacado e breve descrição.
-Portfolio: Seção com os trabalhos desenvolvidos, organizados de forma visual e acessível.
-About: Informações sobre minha trajetória profissional, habilidades e experiências.
-Contact Me: Formulário de contato para comunicação direta com visitantes.
-Cada seção foi estruturada com foco na usabilidade e na clareza da informação.
+## 🎨 Escolhas de Design
 
-Conclusão
-O desenvolvimento deste projeto foi um aprendizado significativo, onde apliquei conhecimentos em HTML, CSS e responsividade para criar um site funcional e bem estruturado. Meu objetivo principal foi proporcionar uma experiência de usuário fluida e intuitiva, garantindo que o site seja acessível em diferentes dispositivos.
+- **Tipografia moderna** para garantir legibilidade e sofisticação.
+- **Paleta de cores equilibrada**, transmitindo profissionalismo e harmonia visual.
+- **Botões interativos** com efeito hover para melhorar a experiência do usuário.
+- **Imagens e ilustrações otimizadas** para um carregamento mais rápido da página.
 
-Ao longo do desenvolvimento, priorizei a organização do código, a manutenção da identidade visual e a performance, otimizando imagens e estilização para um melhor carregamento da página.
+## 📂 Estrutura da Página
 
-Este projeto me permitiu consolidar meus conhecimentos e aprimorar minha capacidade de criar interfaces bem estruturadas, responsivas e visualmente agradáveis.
+A landing page foi dividida em seções bem organizadas:
+
+1. **Navbar:** Menu fixo no topo com links de navegação.
+2. **Hero Section:** Destaque visual inicial com imagem e chamada para ação.
+3. **Sobre:** Breve explicação sobre o propósito do site.
+4. **Benefícios:** Apresentação de vantagens e recursos.
+5. **Call to Action (CTA):** Incentivo para o usuário interagir.
+6. **Rodapé:** Informações de contato e redes sociais.
+
+## 🚀 Responsividade
+
+O layout foi projetado para ser **totalmente responsivo**, garantindo uma experiência fluida tanto em **desktops**, **tablets** e **smartphones**. O uso de **media queries** permitiu ajustes dinâmicos nos tamanhos e espaçamentos conforme a largura da tela.
+
+## 📈 Aprendizados
+
+Durante o desenvolvimento, foram reforçados conceitos essenciais de:
+
+- Estruturação semântica com HTML
+- Estilização eficiente utilizando boas práticas de CSS
+- Layouts flexíveis com **Flexbox** e **Grid**
+- Importância da responsividade para experiência do usuário
+
+## 🎯 Conclusão
+
+Este projeto permitiu consolidar conhecimentos fundamentais de desenvolvimento web, além de aprimorar a organização e a estética das páginas. A prática de **boas práticas de código e design responsivo** foi um diferencial importante, tornando a landing page intuitiva e visualmente agradável.
+
+🔗 Repositório do projeto: [GitHub](https://github.com/joaovitorrios/wide-coverage-site)
+
+
+
